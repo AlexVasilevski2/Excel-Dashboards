@@ -37,3 +37,32 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 <img src="https://i.postimg.cc/VLmVQp59/Financial-Forecast.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+<h1>Project 3. Financial Scenario & Sensitivity Analysis</h1>
+
+1. Calculated the units we need to sell at the price to get to a $100k profit with 2 constraints, below a certain max price and unit volumes - using Solver.
+
+2. Created a Sensitivity Analysis to stress test the profit at different unit prices points and volumes soled - using What If Analysis.
+
+3. Conducted a Scenario Analysis - how are revenue and profit effected in different assumptions and scenarios.
+
+
+The top three reasons for using sensitivity and scenario analysis in determining profit are:
+
+Risk Management: These analyses help businesses identify and evaluate the impact of key variables (e.g., sales, costs, market conditions) on profitability, enabling preparation for adverse outcomes.
+
+Strategic Decision-Making: They provide insights into the range of possible financial outcomes under different conditions, aiding in better decision-making for investments, pricing, or cost strategies.
+
+Flexibility and Adaptability: By exploring "what-if" scenarios, businesses can develop contingency plans and remain agile in adjusting to changes in the market or operating environment.
+
+Resources:  https://www.youtube.com/watch?v=oBs4GoubFcY&t=2s
+
+<br />
+
+<h2>Report Image:</h2>
+<p align="center">
+<img src="https://i.postimg.cc/Kzbn3X6J/Sensitivity-Analysis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
