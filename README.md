@@ -26,7 +26,6 @@ Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 1.	Forecasted the next 2 years of monthly sales for the Hotel Resort, taking into account seasonality using the function Forecast.ETS and the Forecast Sheet.
 
 Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
-
 <br />
 
 <h2>Report Image:</h2>
@@ -34,7 +33,6 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 <img src="https://i.postimg.cc/8CQvxQzN/Financial-Forecast.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 
 <h1>Project 3. Financial Scenario & Sensitivity Analysis</h1>
 
@@ -54,7 +52,6 @@ The top three reasons for using sensitivity and scenario analysis in determining
 - Flexibility and Adaptability: By exploring "what-if" scenarios, businesses can develop contingency plans and remain agile in adjusting to changes in the market or operating environment.
 
 Resources:  https://www.youtube.com/watch?v=oBs4GoubFcY&t=2s
-
 <br />
 
 <h2>Report Image:</h2>
