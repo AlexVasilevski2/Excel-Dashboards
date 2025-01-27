@@ -31,7 +31,7 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
 <h2>Report Image:</h2>
 <p align="center">
-<img src="https://i.postimg.cc/VLmVQp59/Financial-Forecast.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/8CQvxQzN/Financial-Forecast.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
