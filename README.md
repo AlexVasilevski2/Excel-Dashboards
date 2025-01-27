@@ -4,6 +4,14 @@
 
 2.	Using upper and a lower case scenario.
 
+Why do we forecast?
+
+- Forecasting an income statement helps businesses plan strategically by projecting future revenues, expenses, and profits, ensuring alignment with their financial goals. 
+
+- It aids in budgeting and assessing the feasibility of key initiatives like expansions or product launches. Additionally, it supports cash flow management by identifying potential surpluses or deficits, allowing companies to allocate resources effectively and avoid liquidity issues. 
+
+- Forecasting also informs strategic decisions, such as investments or cost optimization, based on expected financial outcomes. Moreover, it enhances communication with stakeholders like investors and lenders, demonstrating a clear financial outlook and building confidence. Lastly, it provides benchmarks for tracking progress and ensuring the organization stays on target to meet objectives.
+
 Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 <br />
 
@@ -16,17 +24,6 @@ Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 <h1>Project 2. Financial Forecasting - Hotel Resort Sales</h1>
 
 1.	Forecasted the next 2 years of monthly sales for the Hotel Resort, taking into account seasonality using the function Forecast.ETS and the Forecast Sheet.
-
-
-What are the key reason to forecast?
-
-1.	Strategic Planning: It helps in setting realistic goals, identifying growth opportunities, and developing long-term strategies to achieve business objectives.
-   
-3.	Financial Management: Forecasting aids in assessing future revenue, expenses, and profitability, enabling better cash flow and resource allocation.
-   
-5.	Investment Decisions: It provides valuable insights for stakeholders and potential investors, highlighting the business’s future earning potential and financial health.
-   
-7.	Risk Mitigation: By predicting potential challenges and deviations, businesses can proactively plan and implement measures to address economic downturns or unforeseen expenses.
 
 Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
@@ -50,11 +47,11 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
 The top three reasons for using sensitivity and scenario analysis in determining profit are:
 
-Risk Management: These analyses help businesses identify and evaluate the impact of key variables (e.g., sales, costs, market conditions) on profitability, enabling preparation for adverse outcomes.
+- Risk Management: These analyses help businesses identify and evaluate the impact of key variables (e.g., sales, costs, market conditions) on profitability, enabling preparation for adverse outcomes.
 
-Strategic Decision-Making: They provide insights into the range of possible financial outcomes under different conditions, aiding in better decision-making for investments, pricing, or cost strategies.
+- Strategic Decision-Making: They provide insights into the range of possible financial outcomes under different conditions, aiding in better decision-making for investments, pricing, or cost strategies.
 
-Flexibility and Adaptability: By exploring "what-if" scenarios, businesses can develop contingency plans and remain agile in adjusting to changes in the market or operating environment.
+- Flexibility and Adaptability: By exploring "what-if" scenarios, businesses can develop contingency plans and remain agile in adjusting to changes in the market or operating environment.
 
 Resources:  https://www.youtube.com/watch?v=oBs4GoubFcY&t=2s
 
