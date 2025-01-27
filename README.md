@@ -1,4 +1,4 @@
-<h1>Financial Modelling - Income Statement</h1>
+<h1>Project 1. Financial Modelling - Income Statement</h1>
 
 1.	Forecasting the financial outlook 4 years in the future.
 
@@ -13,7 +13,7 @@ Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 <br />
 <br />
 
-<h1>Financial Forecasting - Hotel Resort Sales</h1>
+<h1>Project 2. Financial Forecasting - Hotel Resort Sales</h1>
 
 1.	Forecasted the next 2 years of monthly sales for the Hotel Resort, taking into account seasonality using the function Forecast.ETS and the Forecast Sheet.
 
