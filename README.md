@@ -38,7 +38,7 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
 1. Calculated the units we need to sell at the price to get to a $100k profit with 2 constraints, below a certain max price and unit volumes - using Solver.
 
-2. Created a Sensitivity Analysis to stress test the profit at different unit prices points and volumes soled - using What If Analysis.
+2. Created a Sensitivity Analysis to stress test the profit at different unit prices points and volumes sold - using What If Analysis.
 
 3. Conducted a Scenario Analysis - how are revenue and profit effected in different assumptions and scenarios.
 
