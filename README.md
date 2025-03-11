@@ -60,3 +60,17 @@ Resources:  https://www.youtube.com/watch?v=oBs4GoubFcY&t=2s
 <br />
 <br />
 
+
+<h1>Project 4. Profit & Loss in a Pivot Table (using dax, power query, power pivot and data modeling in excel) </h1>
+
+1.	I built a Profit & Loss Statement inside a pivot table, allowing for the data to be sliced and diced by different catogories, ranges etc (fully automated pivot table)
+2.	Feel free to download a copy (start of this page) to see the pivot table functionality and workings. If youd like to recreate it I've included the resource below.
+
+Resources: https://www.youtube.com/watch?v=UZJR1747NsQ&t=2410s
+<br />
+
+<h2>Report Image:</h2>
+<p align="center">
+<img src="https://i.postimg.cc/tJTqS92G/Pivot-table.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
