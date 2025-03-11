@@ -71,6 +71,6 @@ Resources: https://www.youtube.com/watch?v=UZJR1747NsQ&t=2410s
 
 <h2>Report Image:</h2>
 <p align="center">
-<img src="https://i.postimg.cc/tJTqS92G/Pivot-table.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.postimg.cc/MHhC7wLD/Pivot-table-date-calendar.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
