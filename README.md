@@ -43,7 +43,7 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 3. Conducted a Scenario Analysis - how are revenue and profit effected in different assumptions and scenarios.
 
 
-The top three reasons for using sensitivity and scenario analysis in determining profit are:
+Some of the key reasons for using sensitivity and scenario analysis in determining profit are:
 
 - Risk Management: These analyses help businesses identify and evaluate the impact of key variables (e.g., sales, costs, market conditions) on profitability, enabling preparation for adverse outcomes.
 
