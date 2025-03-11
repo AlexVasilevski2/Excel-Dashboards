@@ -4,7 +4,7 @@
 
 2.	Using upper and a lower case scenario.
 
-Some reasons for the forcast?
+Some reasons for forecasting?
 
 - Forecasting an income statement helps businesses plan strategically by projecting future revenues, expenses, and profits, ensuring alignment with their financial goals. 
 
