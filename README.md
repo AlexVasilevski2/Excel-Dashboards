@@ -1,7 +1,8 @@
 <h1>Project 1. Profit & Loss in a Pivot Table</h1>
-<h3>(using dax, power query, power pivot and data modeling in excel) </h3>
 
 Built a Profit & Loss Statement inside a pivot table, to allow slicing by categories etc. 
+
+Using dax, power query, power pivot and data modeling in excel.
 
 Feel free to download a copy (above) to see full functonality of the pivot table.
 
