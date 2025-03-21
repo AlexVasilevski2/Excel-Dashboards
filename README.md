@@ -19,15 +19,7 @@ Resources: https://www.youtube.com/watch?v=UZJR1747NsQ&t=2410s
 
 1.	Forecasting the financial outlook 4 years in the future.
 
-2.	Using upper and a lower case scenario.
-
-Some reasons for forecasting?
-
-- Forecasting an income statement helps businesses plan strategically by projecting future revenues, expenses, and profits, ensuring alignment with their financial goals. 
-
-- It aids in budgeting and assessing the feasibility of key initiatives like expansions or product launches. Additionally, it supports cash flow management by identifying potential surpluses or deficits, allowing companies to allocate resources effectively and avoid liquidity issues. 
-
-- Forecasting also informs strategic decisions, such as investments or cost optimization, based on expected financial outcomes. Moreover, it enhances communication with stakeholders like investors and lenders, demonstrating a clear financial outlook and building confidence. Lastly, it provides benchmarks for tracking progress and ensuring the organization stays on target to meet objectives.
+2.	Scenarion planning on different forecasts and how it impacts the income statement.
 
 Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 <br />
@@ -40,7 +32,7 @@ Resources: https://www.youtube.com/watch?v=Iiq4Sem9GPM&t=624s
 
 <h1>Project 3. Financial Forecasting - Hotel Resort Sales</h1>
 
-1.	Forecasted the next 2 years of monthly sales for the Hotel Resort, taking into account seasonality using the function Forecast.ETS and the Forecast Sheet.
+1.	Forecasted the next 2 years of monthly sales for the Hotel Resort, taking into account seasonality using the function Forecast.ETS (time-series forecast).
 
 Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 <br />
@@ -53,11 +45,11 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
 <h1>Project 4. Financial Scenario & Sensitivity Analysis</h1>
 
-1. Calculated the units we need to sell at the price to get to a $100k profit with 2 constraints, below a certain max price and unit volumes - using Solver.
+1. Using Solver in excel - calculated the units and price required to get to a $100k profit with added constraints or cielings on price and unit volumes.
 
 2. Created a Sensitivity Analysis to stress test the profit at different unit prices points and volumes sold - using What If Analysis.
 
-3. Conducted a Scenario Analysis - how are revenue and profit effected in different assumptions and scenarios.
+3. Conducted a Scenario Analysis - how are revenue and profit effected with different assumptions and scenarios.
 
 
 Some of the key reasons for using sensitivity and scenario analysis in determining profit are:
