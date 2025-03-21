@@ -51,16 +51,6 @@ Resources: https://www.youtube.com/watch?v=6rqhMnOgQnU
 
 3. Conducted a Scenario Analysis - how are revenue and profit effected with different assumptions and scenarios.
 
-
-Some of the key reasons for using sensitivity and scenario analysis in determining profit are:
-
-- Risk Management: These analyses help businesses identify and evaluate the impact of key variables (e.g., sales, costs, market conditions) on profitability, enabling preparation for adverse outcomes.
-
-- Strategic Decision-Making: They provide insights into the range of possible financial outcomes under different conditions, aiding in better decision-making for investments, pricing, or cost strategies.
-
-- Flexibility and Adaptability: By exploring "what-if" scenarios, businesses can develop contingency plans and remain agile in adjusting to changes in the market or operating environment.
-
-Resources:  https://www.youtube.com/watch?v=oBs4GoubFcY&t=2s
 <br />
 
 <h2>Report Image:</h2>
